@@ -2,12 +2,12 @@
 
 Projeto em **Python** desenvolvido para comparar o desempenho de ativos líderes em três mercados distintos nos últimos 5 anos.
 
-## 🛠️ Tecnologias
+##  Tecnologias
 - **yfinance**: Extração de dados.
 - **Pandas/NumPy**: Processamento estatístico.
 - **Matplotlib**: Visualização em Dark Mode.
 
-## 📊 Conceitos Aplicados
+##  Conceitos Aplicados
 - **Teoria Moderna de Portfólio (Markowitz)**.
 - **Volatilidade Anualizada**: $\sigma \cdot \sqrt{252}$.
 - **Análise de Clusters**: Comparação entre mercados emergentes e desenvolvidos.
