@@ -1,4 +1,4 @@
-# Análise Quantitativa: Risco vs Retorno Global (B3, FTSE MIB, S&P 500) 📈
+# Análise Quantitativa: Risco vs Retorno Global (B3, FTSE MIB, S&P 500) 
 
 Projeto em **Python** desenvolvido para comparar o desempenho de ativos líderes em três mercados distintos nos últimos 5 anos.
 
