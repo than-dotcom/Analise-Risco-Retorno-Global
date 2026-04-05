@@ -14,4 +14,7 @@ Projeto em **Python** desenvolvido para comparar o desempenho de ativos líderes
 
 ---
 *Estudante de Economia - Università degli Studi di Torino (UniTo)*
-![Gráfico Final] <img width="1489" height="990" alt="Analise-Risco-Retorno-Global com médias" src="https://github.com/user-attachments/assets/88b798c5-0f50-472d-872d-e4f6623a4cd2" />
+
+<img width="1380" height="889" alt="Analise-Risco-Retorno-Global sem médias" src="https://github.com/user-attachments/assets/78eabd4a-975b-4444-8c22-e1b6b4ee5d3b" />
+
+<img width="1489" height="990" alt="Analise-Risco-Retorno-Global com médias" src="https://github.com/user-attachments/assets/88b798c5-0f50-472d-872d-e4f6623a4cd2" />
